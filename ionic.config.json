@@ -1,0 +1,8 @@
+{
+  "name": "Booba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "b0f5727d"
+}
